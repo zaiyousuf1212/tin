@@ -147,3 +147,8 @@ h2{ color: white;
                   background-color: #ef8172;
     }
     .btnn:hover{ background-color: #ef8172;}
+@media (max-width:1028px) {
+      .image{transform: rotate(0);}
+      .title{ text-align: center;}
+
+    }
